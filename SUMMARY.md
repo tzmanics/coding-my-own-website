@@ -9,4 +9,7 @@
 * [Add a Section](add-a-section.md)
 * [Add Images](add-images.md)
 * [Add Lists](add-lists.md)
+* [Add List Items](add-list-items.md)
+* [Add Style](add-style.md)
+* [Style.css](stylecss.md)
 
