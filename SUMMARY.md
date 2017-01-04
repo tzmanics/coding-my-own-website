@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Pre-Planning](chapter1.md)
+* [Making the Skeleton](making-the-skeleton.md)
+
