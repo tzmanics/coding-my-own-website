@@ -11,5 +11,6 @@
 * [Add Lists](add-lists.md)
 * [Add List Items](add-list-items.md)
 * [Add Style](add-style.md)
-* [Style.css](stylecss.md)
+* [Create and link style.css](stylecss.md)
+* Refresh your browser and see what happens!
 

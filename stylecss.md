@@ -1,4 +1,4 @@
-Create a new file called Style.css and paste the following into it:
+### Create a new file called Style.css and paste the following into it:
 
 ```css
 body {
