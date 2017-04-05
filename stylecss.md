@@ -1,4 +1,49 @@
 ### ![](/assets/Screen Shot 2017-04-05 at 9.57.27 AM.png)
 
+```css
+body {
+  background-color: darkgray;
+  color: aliceblue;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 155px;
+  text-align: center;
+}
+
+img {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+#images {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.image-container {
+  width: 50%;
+  height: 500px;
+  float: left;
+  overflow: hidden;
+}
+
+#lists {
+  width: 60%;
+  margin: 0 auto;
+  font-size: 150%;
+}
+
+.list-container {
+  width: 50%;
+  float: left;
+}
+
+.odd {
+  float: right;
+}
+```
+
 
 

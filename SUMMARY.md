@@ -10,8 +10,7 @@
 * [Add a Section](add-a-section.md)
 * [Add Images](add-images.md)
 * [Getting an Image Online](getting-an-image-online.md)
-* Helping
-* [Using a Local Image](copy-and-paste.md)
+* [Creating Images Folder](copy-and-paste.md)
 * [Using a Local Image](using-a-local-image.md)
 * [What Does it Look Like?](what-does-it-look-like.md)
 * [Add A List](add-a-list.md)
