@@ -8,11 +8,11 @@
 * [Add A Header](add-content.md)
 * [Add a Section](add-a-section.md)
 * [Add Images](add-images.md)
-* [Add Style](add-style.md)
 * [Getting an Image Online](getting-an-image-online.md)
 * [Adding the Image Address](adding-the-image-address.md)
 * [Using a Local Image](copy-and-paste.md)
+* [Using a Local Image](using-a-local-image.md)
+* [Add Style](add-style.md)
 * [Style Sheet Parts Explained](style-sheet-parts-explained.md)
 * [Create and link style.css](stylecss.md)
-* Using a Local Image
 
