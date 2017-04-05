@@ -8,9 +8,11 @@
 * [Add A Header](add-content.md)
 * [Add a Section](add-a-section.md)
 * [Add Images](add-images.md)
-* [Add Lists](add-lists.md)
-* [Add List Items](add-list-items.md)
+* [Add Images](add-images.md)
+* [Add Images](add-images.md)
+* [Copy & Paste!](copy-and-paste.md)
 * [Add Style](add-style.md)
+* [Style Sheet Parts Explained](style-sheet-parts-explained.md)
 * [Create and link style.css](stylecss.md)
-* Refresh your browser and see what happens!
+* [Refresh your browser and see what happens!](refresh-your-browser-and-see-what-happens.md)
 
