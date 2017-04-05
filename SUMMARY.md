@@ -12,7 +12,12 @@
 * [Adding the Image Address](adding-the-image-address.md)
 * [Using a Local Image](copy-and-paste.md)
 * [Using a Local Image](using-a-local-image.md)
+* [What Does it Look Like?](what-does-it-look-like.md)
+* [Add A List](add-a-list.md)
+* [Add List Items](add-list-items.md)
+* Now, What Do We Have Here?
 * [Add Style](add-style.md)
 * [Style Sheet Parts Explained](style-sheet-parts-explained.md)
 * [Create and link style.css](stylecss.md)
+* [index.html](indexhtml.md)
 
