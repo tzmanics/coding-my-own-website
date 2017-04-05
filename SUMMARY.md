@@ -8,11 +8,9 @@
 * [Add A Header](add-content.md)
 * [Add a Section](add-a-section.md)
 * [Add Images](add-images.md)
-* [Getting an Image Online](add-images.md)
-* [Creating a Folder for Images](add-images.md)
+* [Getting an Image Online](getting-an-image-online.md)
 * [Copy & Paste!](copy-and-paste.md)
 * [Add Style](add-style.md)
 * [Style Sheet Parts Explained](style-sheet-parts-explained.md)
 * [Create and link style.css](stylecss.md)
-* [Refresh your browser and see what happens!](refresh-your-browser-and-see-what-happens.md)
 
