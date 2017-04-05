@@ -1,4 +1,4 @@
-### Before you start building anything on the web, think about what it should look like and who it's for. 
+### ![](/assets/Screen Shot 2017-04-05 at 6.39.16 AM.png)Before you start building anything on the web, think about what it should look like and who it's for.
 
 **Write down the answers to the following questions:**
 
