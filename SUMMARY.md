@@ -1,5 +1,6 @@
 # Summary
 
+* [Helping](helping.md)
 * [Introduction](README.md)
 * [Pre-Planning](chapter1.md)
 * [Making the Skeleton](making-the-skeleton.md)
@@ -9,7 +10,7 @@
 * [Add a Section](add-a-section.md)
 * [Add Images](add-images.md)
 * [Getting an Image Online](getting-an-image-online.md)
-* [Adding the Image Address](adding-the-image-address.md)
+* Helping
 * [Using a Local Image](copy-and-paste.md)
 * [Using a Local Image](using-a-local-image.md)
 * [What Does it Look Like?](what-does-it-look-like.md)
