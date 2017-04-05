@@ -1,3 +1,5 @@
+![](/assets/Screen Shot 2017-04-05 at 8.32.52 AM.png)
+
 ```
 <!DOCTYPE HTML>
 <head>

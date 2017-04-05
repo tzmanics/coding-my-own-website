@@ -15,9 +15,9 @@
 * [What Does it Look Like?](what-does-it-look-like.md)
 * [Add A List](add-a-list.md)
 * [Add List Items](add-list-items.md)
-* Now, What Do We Have Here?
+* [Now, What Do We Have Here?](now-what-do-we-have-here.md)
+* [index.html](indexhtml.md)
 * [Add Style](add-style.md)
 * [Style Sheet Parts Explained](style-sheet-parts-explained.md)
 * [Create and link style.css](stylecss.md)
-* [index.html](indexhtml.md)
 
