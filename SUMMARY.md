@@ -20,6 +20,9 @@
 * [Add Style](add-style.md)
 * [How To Write CSS](how-to-write-css.md)
 * [Using Inline Style](using-inline-style.md)
-* [Style Sheet Parts Explained](style-sheet-parts-explained.md)
-* [Create and link style.css](stylecss.md)
+* [Add a Style Sheet File](add-a-style-sheet-file.md)
+* [Styling Images](stylecss.md)
+* [Styling Classes & Divs](style-sheet-parts-explained.md)
+* [style.css](stylecss.md)
+* Contact Information
 
