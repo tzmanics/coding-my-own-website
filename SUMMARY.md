@@ -21,8 +21,8 @@
 * [How To Write CSS](how-to-write-css.md)
 * [Using Inline Style](using-inline-style.md)
 * [Add a Style Sheet File](add-a-style-sheet-file.md)
-* [Styling Images](stylecss.md)
+* [Styling Images](stylingimages.md)
 * [Styling Classes & Divs](style-sheet-parts-explained.md)
+* [Contact Information](contact-information.md)
 * [style.css](stylecss.md)
-* Contact Information
 
